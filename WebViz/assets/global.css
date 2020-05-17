@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(../Visualizations/smap-weather.jpg);
+    background-size: cover;
+}
+
+/*Navbar styling start */
+.navbar {     /*Top Banner on page*/
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 3.14%;
+}
+
+.navbar-brand { /*WeatherStat title text*/
+    font-family: 'Cambria';
+    color: #222;
+    font-size: 26px;
+    padding: 10px 20px;
+    line-height: 55px;
+    text-decoration: none;
+}
+
+.navbar-nav-mr-auto {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-item { /*Links to other Webpages*/
+    float: left;
+    font-family: 'Cambria';
+    color: #222;
+    font-size: 22px;
+    padding: 0px 14px;
+    line-height: 55px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.dropdown-menu {
+    text-decoration: none;
+}
+
+.dropdown-list {
+    background-color:#fff;
+    display: block;
+    position: absolute;
+}
+
+
+nav div div a {
+    display: block;
+    font-family: 'Cambria';
+    position: relative;
+    text-decoration: none;
+}
+
+
+/*Navbar styling end */
+
+.CopyPasta {
+    font-family: 'Cambria';
+}
+
+
